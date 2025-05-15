@@ -1,5 +1,3 @@
-# gaia-sitri
-
 # Hi there, I'm Gaia Sitri 👋
 
 🎓 I'm currently a Master's student in **Data Science and Business Informatics** at the University of Pisa, with a Bachelor's degree in **Digital Humanities** — a unique field that combines cultural knowledge with technological tools.
